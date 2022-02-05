@@ -1,0 +1,16 @@
+  112  rm idenity.txt
+  113  ls
+  114  cat identity.txt
+  115  nano identity.txt
+  116  cat identity.txt
+  117  cat identity.txt
+  118  git init
+  119  ls
+  120  ls -a
+  121  git status
+  122  git add .
+  123  git status
+  124  git commit -m"My first work on Github"
+  125  git commit -m"My first work on Github"
+  126  git remote add origin git@github.com:GasanaElysee12/Git-assignment.git
+  127  git push -u origin master
